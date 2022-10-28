@@ -146,11 +146,6 @@ a:hover {
   background-size: cover;
 }
 
-.bg-coming-soon {
-  background: url(../images/background/comming-soon.jpg) fixed no-repeat;
-  background-size: cover;
-  background-position: bottom;
-}
 
 .section {
   padding: 100px 0;
@@ -209,7 +204,7 @@ a:hover {
   height: 125px;
   width: 125px;
   font-size: 40px;
-  background: #2e7eed;
+  background: #7772d3;
   border-radius: 100%;
   color: #fff;
   line-height: 125px;
@@ -237,7 +232,7 @@ a:hover {
   font-size: 14px;
 }
 .form-control.main:focus {
-  border: 1px solid #2e7eed;
+  border: 1px solid #7772d3;
   box-shadow: none;
 }
 
@@ -320,10 +315,10 @@ button:focus,
 
 .btn-main-md {
   padding: 17px 38px;
-  border-radius: 3px;
-  background: #2e7eed;
+  border-radius: 10px;
+  background: #7772d3;
   color: #fff;
-  outline: none;
+  outline:aliceblue;
 }
 .btn-main-md:hover {
   color: #fff;
@@ -336,7 +331,7 @@ button:focus,
 .btn-main-sm {
   padding: 15px 35px;
   border-radius: 3px;
-  background: #2e7eed;
+  background: #7772d3;
   color: #fff;
   outline: none;
   font-size: 14px;
@@ -519,7 +514,7 @@ button:focus,
 
 .footer-main {
   padding: 92px 0;
-  background: #1a1b1f;
+  background: #dddbff;
 }
 @media (max-width: 768px) {
   .footer-main {
@@ -538,7 +533,7 @@ button:focus,
   width: 38px;
   height: 38px;
   border-radius: 100%;
-  background: #3f3f43;
+  background: #7772d3;
   color: #fff;
   text-align: center;
   line-height: 38px;
@@ -552,7 +547,7 @@ button:focus,
   font-weight: bold;
   font-size: 14px;
   text-transform: uppercase;
-  color: #fff;
+  color: #7772d3;
   margin-bottom: 25px;
 }
 .footer-main .block-2 ul {
@@ -564,7 +559,7 @@ button:focus,
 }
 .footer-main .block-2 ul li a {
   font-size: 14px;
-  color: #6f6f71;
+  color: #7772d3;
   transition: 0.2s ease;
 }
 .footer-main .block-2 ul li a:hover {
@@ -609,7 +604,7 @@ button:focus,
   height: 40px;
   line-height: 40px;
   text-align: center;
-  background: #2e7eed;
+  background: #7772d3;
   color: #fff;
   transition: 0.3s;
   z-index: 999556;
@@ -951,7 +946,7 @@ button:focus,
 .video-promo .content-block a i.video {
   height: 125px;
   width: 125px;
-  background: #2e7eed;
+  background: #7772d3;
   display: inline-block;
   font-size: 40px;
   color: #fff;
